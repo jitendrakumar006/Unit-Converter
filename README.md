@@ -24,7 +24,7 @@ Users can enter a value, select the conversion type, and instantly see the resul
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure.
 
 ```
 UnitConverterProject
